@@ -1,7 +1,37 @@
-.hero {
-    width: 100%;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.relative {
+.hero {
     position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.hero img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.hero-innehåll {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    padding: 2rem;
+
+}
+
+header {
+    display: flex;
+    flex-direction: row;
 }
