@@ -18,7 +18,7 @@ En landningssida består av ofta av följande delar:
 ## ➡️ Instruktioner
 
 
-Utgå från texten och bilderna på https://www.volvocars.com/se och skapa sidan enligt bild nedan. Det viktiga är att ni använder CSS Flexbox för layout. Fokusera främst på layouten och arbeta med detaljer om ni hinner. Knappar och länkar behöver inte fungera. Använd semantiska element i så stor utsträckning som möjligt.
+Utgå från texten och bilderna på https://www.volvocars.com/se och skapa sidan enligt bild nedan. Det viktiga är att ni använder CSS Flexbox och/eller CSS Grid för layout. Fokusera främst på layouten och arbeta med detaljer om ni hinner. Knappar och länkar behöver inte fungera. Använd semantiska element i så stor utsträckning som möjligt.
 
 ![image](https://github.com/chasacademy-sandra-larsson/workshop-landing.page/blob/main/Volvo-Cars-Landing-page.png)
 
